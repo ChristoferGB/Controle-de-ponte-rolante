@@ -5,4 +5,4 @@ Trabalho de Conclusão de Curso apresentado à Coordenadoria do Curso de Engenha
 
 Autor: Christofer Galdino Bernardo
 
-Documentação completa no documento "CONTROLE ANTIBALANÇO DA CARGA PARA UMA PONTE ROLANTE DIDÁTICA ACIONADA COM USO DE COMANDOS DE VOZ.pdf"
+Documentação completa no documento "Controle antibalanço da carga para uma ponte rolante didática acionada com uso de comandos de voz.pdf"
